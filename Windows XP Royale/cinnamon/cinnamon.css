@@ -1595,7 +1595,7 @@ height of the table to be ICON_SIZE + IMAGE_SIZE + spacing-rows = 24 + 125 + 10 
   padding-top: 4px; }
 
 .applet-box {
-  color: white; }
+  color: black; }
   *.panel-bottom .applet-box, *.panel-top .applet-box {
     padding-left: 1px;
     padding-right: 1px; }
@@ -1827,6 +1827,10 @@ The colour parameters are red, green, blue, and transparency or a name */
 .hover-user-icon {
   border-radius: 4px;
   border: 2px solid #f1f1f1; }
+
+.cinnviistarkmenu-nikokrause-applet {
+  color: white;
+}
 
 /* ===================================================================
 * Snap/Tile Chrome (windowManager.js)
